@@ -16,3 +16,6 @@ So far we have needed to:
 - Swap wiper pad
 - tighten x axis belt
 - level x axis
+
+# Setup and connection guides
+Please check the [wiki](https://github.com/EIT-team/Lulzbot_TAZ6_Stuff/wiki)

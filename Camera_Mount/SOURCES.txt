@@ -1,0 +1,4 @@
+Sources for TAZ 6 Pi camera bed mount
+
+Printrbot Simple Metal RPi Camera Bed Mount (http://www.thingiverse.com/thing:442063)
+Raspberry Pi camera mount for Prusa i3 (http://www.thingiverse.com/thing:1579789)
